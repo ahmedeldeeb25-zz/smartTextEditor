@@ -1,4 +1,4 @@
-/-------------------------------------------------------------------------
+/====================================================
 / Starter Code and GUI Application for Course 2 in the
 / Java Programming: Object Oriented Design of 
 / Data Structures Specialization:
@@ -15,10 +15,8 @@
 
 ---------------------------------------------------------[ DESCRIPTION ]--
 
-The files provided are skeleton code, as well as grading previews and 
-testing files to be used in completing the course programming 
-assignments. Additionally, you are provided a runnable JavaFX program 
-which will help to test and demonstrate your implementations.
+* Front-end and Basic project structure was built by SanDiego University  course Team
+* Back-end and The Algorithms Developed by me
 
 -------------------------------------------------------[ FILES BY WEEK ]--
 
